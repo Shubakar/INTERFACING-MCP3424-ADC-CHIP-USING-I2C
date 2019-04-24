@@ -1,6 +1,6 @@
 # INTERFACING-MCP3424-ADC-CHIP-USING-I2C
 
-interfacing MCP3424 ADC chip with NanoPC-T2  using i2c
+    HOWTO cross compile for the NanoPC-T2
 
 1. Find a device driver for the chip under the path  /drivers/iio/adc/mcp3422.ko
 2. Integrate the module into the kernel as a module .
